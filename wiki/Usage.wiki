@@ -1,6 +1,6 @@
 #summary Page introduces to you how TReasoner can be used from command line or directly from java code.
 
-= Usage From Commandline =
+= Usage From Command Line =
 
 
 = Usage From Java-code =
