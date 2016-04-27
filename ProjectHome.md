@@ -1,0 +1,3 @@
+# **TReasoner** #
+
+[TReasoner](https://code.google.com/p/treasoner/wiki/TReasonerIntroduction) is a reasoning system supporting the **SHOIQ(D)** logic expressiveness, which forms the basis of the OWL DL language. The TReasoner was developed for using in the enterprise architecture verification expert systems, but the OWL API package allows to use the system for performing ontology operations. The reasoner implements a tableau algorithm and optimization techniques, some of them were developed and were used for the first time.
